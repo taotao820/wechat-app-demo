@@ -1,5 +1,5 @@
 # Wechat App 
-## kun's branch
+## dickson's branch
 Learn how to develop wechat app
 
 ### 前期准备
