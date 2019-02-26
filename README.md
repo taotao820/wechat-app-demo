@@ -1,5 +1,5 @@
 # Wechat App 
-## royce's branch
+## kun's branch
 Learn how to develop wechat app
 
 ### 前期准备
