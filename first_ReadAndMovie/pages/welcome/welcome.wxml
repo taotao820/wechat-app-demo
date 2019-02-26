@@ -1,0 +1,7 @@
+<view>
+ <image style="border-radius:50%" src="/images/avatar.jpg"/>
+ <text>Hello,星河</text>
+ <view>
+  <text>开启小程序之旅</text>
+ </view>
+</view>
