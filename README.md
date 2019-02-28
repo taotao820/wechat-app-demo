@@ -10,7 +10,14 @@ Learn how to develop wechat app
 https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html
 
 ##### 3.新建小程序项目
-下载完开发工具后安装点击新建小程序，AppID暂时选测试，后台不选，创建完后生成这个界面：
+1.新建一个小程序项目：
+步骤如图：
+（1）新建项目填写：
+<img src="https://raw.githubusercontent.com/taotao820/md-images/master/wechat-app/Screenshot/firstOpenApp.png" alt="">
+（2）点击新建，进入模拟器页面
+<img src="https://raw.githubusercontent.com/taotao820/md-images/master/wechat-app/Screenshot/start.png" alt="">
+
+2.下载完开发工具后安装点击新建小程序，AppID暂时选测试，后台不选，创建完后生成这个界面：
 <img src="https://raw.githubusercontent.com/taotao820/md-images/master/wechat-app/Screenshot/gotoMain.jpg" alt="">
 
 
